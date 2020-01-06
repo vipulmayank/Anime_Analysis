@@ -8,4 +8,4 @@ Implementation: This development has been carried out to analyze the various fac
 
 RPubs Link: https://rpubs.com/VipulMayank/TheWorldofAnime
 
-Authors: Sayak Chakraborty, Vipul Mayank
+Authors: Vipul Mayank, Sayak Chakraborty
