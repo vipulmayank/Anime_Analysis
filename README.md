@@ -5,4 +5,6 @@ Problem Statement: This development has been carried out to analyze the various 
 
 Implementation: The data was cleaned and shaped accordingly to carry out the analysis and infer the results. 
 
+RPubs Link: http://rpubs.com/VipulMayank/TheWorldofAnime
+
 Authors: Vipul Mayank, Sayak Chakraborty
